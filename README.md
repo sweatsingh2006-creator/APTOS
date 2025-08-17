@@ -18,7 +18,7 @@ To build a **trustless on-chain mentoring network** that empowers students throu
 - Integrate with AlumniDAO governance for decision-making and upgrades.  
 
 ## 📜 Contract Address
-`<Insert your deployed contract address here>`
+`
 
 ---
 <img width="1872" height="1052" alt="image" src="https://github.com/user-attachments/assets/5cf39b0b-ec0f-4020-aa0d-3b75015c51fb" />
