@@ -1,0 +1,17 @@
+[package]
+name = "project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+AlumniDAO='0xde02187c9f67daf784aaa67320451d6df513e11cf7cc5b27107e08c8c6a2d1b0'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+ye
